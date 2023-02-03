@@ -7,7 +7,7 @@
 ## 一键脚本 One click to go
 
 ```shell
-bash <(curl -s -L https://gist.githubusercontent.com/Demontisa/fe200c7199d98ab6787dd943a7b2a483/raw/df475f8bb9afc7fa89c94ce6626044a341ca6b34/NeverIdle.sh)
+bash <(curl -s -L https://gist.githubusercontent.com/Demontisa/fe200c7199d98ab6787dd943a7b2a483/raw/3c109eb942a99fbbdc33fba8ffb741881544f319/NeverIdle.sh)
 ```
 
 MJJ 们估计会喜欢这个。感谢脚本作者 @Ansen
