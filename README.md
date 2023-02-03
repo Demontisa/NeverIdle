@@ -7,7 +7,7 @@
 ## 一键脚本 One click to go
 
 ```shell
-bash <(curl -s -L https://gist.githubusercontent.com/Ansen/e45320205faf5786d3282ac880f20bab/raw/onekey-NeverIdle.sh)
+bash <(curl -s -L https://gist.githubusercontent.com/Demontisa/fe200c7199d98ab6787dd943a7b2a483/raw/df475f8bb9afc7fa89c94ce6626044a341ca6b34/NeverIdle.sh)
 ```
 
 MJJ 们估计会喜欢这个。感谢脚本作者 @Ansen
@@ -25,7 +25,7 @@ MJJ 们估计会喜欢这个。感谢脚本作者 @Ansen
 命令参数：
 
 ```shell
-./NeverIdle -c 2h -m 2 -n 4h
+./NeverIdle -c 30s -m 2 -n 4h
 ```
 
 其中：
